@@ -1,0 +1,65 @@
+
+ .container1{
+    padding: 2px 2px 2px 2px;
+    border-radius: 10px;
+       margin: 20px;
+    border: 2px  solid rgb(32, 29, 29);
+  width:45%;
+    width: 60%;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.container2{
+    padding: 2px;
+    border-radius: 10px;
+       margin: 20px;
+    border: 2px  solid rgb(32, 29, 29);
+  width:45%;
+    width: 60%;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.container1 img{
+    float: right;
+    width: 80%;
+    align-items:center;
+}
+.container2 img{
+    float: right;
+  
+}
+
+h1{
+    color: blue;
+}
+.box img{
+   max-width: 80%;
+   max-height: 80%;
+   padding right: 5px;
+}
+.text{
+    font-size: 15px;
+    padding: 10px;
+}
+.box1{
+    width:100%;
+    display: flex;
+}
+.container2{
+    display: flex;
+}
+h2{
+    color:purple;
+}
+ 
+    
+    
+
+   
+
+
+
